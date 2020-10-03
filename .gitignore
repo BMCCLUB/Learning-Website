@@ -1,2 +1,4 @@
-# Ignore the React Website for now
-/bmcc_website
+# Ignore old learning website
+/website
+# Ignore unused folder
+/Module
